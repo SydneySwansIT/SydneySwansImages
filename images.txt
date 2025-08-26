@@ -1,1 +1,1 @@
-https://github.com/SydneySwansIT/SydneySwansImages/blob/main/NoFood.JPEG?raw=true
+https://raw.githubusercontent.com/SydneySwansIT/SydneySwansImages/refs/heads/main/NoFood.JPEG
